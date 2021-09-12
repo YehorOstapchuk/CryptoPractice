@@ -1,0 +1,13 @@
+C:\Users\Егор\source\repos\HashFunctions\bin\Debug\netcoreapp3.1\HashFunctions.exe
+C:\Users\Егор\source\repos\HashFunctions\bin\Debug\netcoreapp3.1\HashFunctions.deps.json
+C:\Users\Егор\source\repos\HashFunctions\bin\Debug\netcoreapp3.1\HashFunctions.runtimeconfig.json
+C:\Users\Егор\source\repos\HashFunctions\bin\Debug\netcoreapp3.1\HashFunctions.runtimeconfig.dev.json
+C:\Users\Егор\source\repos\HashFunctions\bin\Debug\netcoreapp3.1\HashFunctions.dll
+C:\Users\Егор\source\repos\HashFunctions\bin\Debug\netcoreapp3.1\HashFunctions.pdb
+C:\Users\Егор\source\repos\HashFunctions\obj\Debug\netcoreapp3.1\HashFunctions.csprojAssemblyReference.cache
+C:\Users\Егор\source\repos\HashFunctions\obj\Debug\netcoreapp3.1\HashFunctions.AssemblyInfoInputs.cache
+C:\Users\Егор\source\repos\HashFunctions\obj\Debug\netcoreapp3.1\HashFunctions.AssemblyInfo.cs
+C:\Users\Егор\source\repos\HashFunctions\obj\Debug\netcoreapp3.1\HashFunctions.csproj.CoreCompileInputs.cache
+C:\Users\Егор\source\repos\HashFunctions\obj\Debug\netcoreapp3.1\HashFunctions.dll
+C:\Users\Егор\source\repos\HashFunctions\obj\Debug\netcoreapp3.1\HashFunctions.pdb
+C:\Users\Егор\source\repos\HashFunctions\obj\Debug\netcoreapp3.1\HashFunctions.genruntimeconfig.cache
